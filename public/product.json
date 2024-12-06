@@ -1,0 +1,77 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/products/1.jpg",
+      "title": "Helmet",
+      "rating": 5,
+      "price": 599,
+      "category": "Helmet",
+      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-16 w-16\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 2a10 10 0 00-9.95 9.08 1 1 0 00.58.92l3.23 1.46a1 1 0 01.54.73l.47 3.31a1 1 0 00.73.84l4.4 1.06a1 1 0 00.88-.26l3.55-3.33A9.95 9.95 0 0022 12a10 10 0 00-10-10zm-1 14a1 1 0 110-2 1 1 0 010 2zm4.62-3.76a3 3 0 01-3.11 3.11 3 3 0 01-3.1-3.1A5 5 0 0116 11.1a4.95 4.95 0 01-.38 1.14z\"/></svg>"
+    },
+    {
+        "id": 2,
+        "image": "/assets/products/2.jpg",
+        "title": "Coolant Oil",
+        "rating": 5,
+        "price": 459,
+        "category": "Coolant Oil",
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-16 w-16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M12 2C7.58 2 4 5.58 4 10c0 2.42 1.47 4.61 3.59 5.55l-1.18 4.57c-.07.28.08.58.3.7.21.13.47.13.68.03L12 18.6l4.61 1.64c.21.1.47.1.68-.03.22-.12.37-.42.3-.7l-1.18-4.57C18.53 14.61 20 12.42 20 10c0-4.42-3.58-8-8-8zm0 14.76l-3.08-1.08-.92-3.55c.27-.08.54-.15.83-.15h7.34c.29 0 .56.07.83.15l-.92 3.55L12 16.76z\"/></svg>"
+      },
+      
+      {
+        "id": 3,
+        "image": "/assets/products/3.jpg",
+        "title": "Fuel Injector",
+        "rating": 5,
+        "price": 499,
+        "category": "Fuel Injector",
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-16 w-16\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M16 3H8a1 1 0 00-1 1v2a1 1 0 001 1h8a1 1 0 001-1V4a1 1 0 00-1-1zm1 6H7v5a2 2 0 002 2h6a2 2 0 002-2V9zM12 17v4m-2-4h4\"/></svg>"
+      },
+      
+    {
+      "id": 4,
+      "image": "/assets/products/4.jpg",
+      "title": "Coolant Oil",
+      "rating": 5,
+      "price": 359,
+      "category": "Car Parts",
+      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-16 w-16\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12H3l3-4 3 4zm0 0h6m0 0h6l-3-4-3 4zM3 16h18m-18 0l3 4-3-4zm18 0l-3 4 3-4z\"/></svg>"
+    },
+    {
+      "id": 5,
+      "image": "/assets/products/5.jpg",
+      "title": "Premier Helmet",
+      "rating": 5,
+      "price": 259,
+      "category": "Helmet",
+      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-16 w-16\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 13l4 4L19 7\"/></svg>"
+    },
+    {
+      "id": 6,
+      "image": "/assets/products/6.jpg",
+      "title": "Coolant Oil",
+      "rating": 5,
+      "price": 599,
+      "category": "Car Parts",
+      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-16 w-16\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12H3l3-4 3 4zm0 0h6m0 0h6l-3-4-3 4zM3 16h18m-18 0l3 4-3-4zm18 0l-3 4 3-4z\"/></svg>"
+    },
+    {
+      "id": 7,
+      "image": "/assets/products/7.jpg",
+      "title": "Premier Helmet",
+      "rating": 5,
+      "price": 599,
+      "category": "Helmet",
+      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-16 w-16\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 13l4 4L19 7\"/></svg>"
+    },
+    {
+      "id": 8,
+      "image": "/assets/products/8.jpg",
+      "title": "Premier Helmet",
+      "rating": 5,
+      "price": 299,
+      "category": "Helmet",
+      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-16 w-16\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 13l4 4L19 7\"/></svg>"
+    }
+  ]
+  
